@@ -12,7 +12,7 @@ posts = [
     }, 
     {
         'author': 'guitarhero',
-        'title': 'Bocchi the Rock',
+        'title': 'Outer Wilds',
         'content': 'hello',
         'date_posted': 'October 9, 2022'
     }
